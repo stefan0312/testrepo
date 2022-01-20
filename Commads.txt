@@ -1,9 +1,9 @@
-git remote set-url origin git@github.com:stefan0312/name of repossetprsa.git
-
+git init  (repository lokal erstellen)
+git push --set-upstream git@github.com:stefan0312/QScanner.git master
 
 
 git add .
 git commit
-git push (ssh)
+git push
 
 mkdir (ordner erstellen)
