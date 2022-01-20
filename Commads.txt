@@ -1,0 +1,9 @@
+git remote set-url origin git@github.com:stefan0312/name of repossetprsa.git
+
+
+
+git add .
+git commit
+git push (ssh)
+
+mkdir (ordner erstellen)
